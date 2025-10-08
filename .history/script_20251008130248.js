@@ -1,0 +1,3 @@
+const taskInput = document.getElementById('todo-input');
+const taskList = document.getElementById('todo-list');
+const addTaskButton = document.getElementById('add-todo');
